@@ -6,10 +6,10 @@ app.controller('myCtrl', function($scope, $http, myService) {
 	$scope.resetData = function(){
 		myService.resetData()
 		.then(value => {
-			$scope.allStudents = value;
+			// console.log(value);
 		})
 		.catch(err => {
-			console.log(err);
+			// console.log(value);
 		});
 	}
 });
