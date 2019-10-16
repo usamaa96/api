@@ -1,0 +1,38 @@
+[
+    {
+        "id": 0,
+        "firstName": "Usama",
+        "lastName": "Abubakar",
+        "address": {
+            "city": "Karachi",
+            "country": "Pakistan",
+            "postal": 77550,
+            "location": "Super Highway"
+        },
+        "languages": ["Angular", "Java", ".Net"]
+    },
+    {
+        "id": 1,
+        "firstName": "Leo",
+        "lastName": "Messi",
+        "address": {
+            "city": "Buenos Aires",
+            "country": "Argentina",
+            "postal": 1234,
+            "location": "LM10 Street"
+        },
+        "languages": ["Angular", "Java", ".Net"]
+    },
+    {
+        "id": 2,
+        "firstName": "Cristiano",
+        "lastName": "Ronaldo",
+        "address": {
+            "city": "Lisbon",
+            "country": "Portugal",
+            "postal": 4454,
+            "location": "Cr7 Street"
+        },
+        "languages": ["Angular", "Java", ".Net"]
+    }
+]
