@@ -1,0 +1,9 @@
+http://192.168.0.42:9000/api/getAllStudents
+http://192.168.0.42:9000/api/addStudent
+
+let obj = new Object();
+
+firstname
+lastname
+address [] { city , country, location }
+languages = []
